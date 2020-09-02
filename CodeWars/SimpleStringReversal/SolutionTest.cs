@@ -12,7 +12,6 @@ namespace CodeWars.SimpleStringReversal
             Assert.AreEqual("srawedoc", Solution.solve("codewars"));
             Assert.AreEqual("edoc ruoy", Solution.solve("your code"));
             Assert.AreEqual("skco redo cruoy", Solution.solve("your code rocks"));
-
         }
     }
 }
